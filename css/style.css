@@ -1,12 +1,26 @@
 
+@font-face {
+    font-family: 'codeBold';
+    src: url('../fonts/CODE%20Bold.otf');
+}
+
+@font-face {
+    font-family: 'edmondSans';
+    src: url('../fonts/Edmondsans-Regular.otf');
+}
+
+@font-face {
+    font-family: 'varela';
+    src: url('../fonts/VarelaRound-Regular.ttf');
+}
 
 #home_section
 {
-    background-image:url("../pictures/bill.jpg");
+    background-image:url("../pictures/bear.jpg");
     background-size:cover;
     height: 100%;
-    -webkit-filter: grayscale(75%); /* Chrome, Safari, Opera */
-    filter: grayscale(75%);
+    -webkit-filter: grayscale(0%); /* Chrome, Safari, Opera */
+    filter: grayscale(0%);
 
 }
 
@@ -17,10 +31,39 @@
 
 #home_title
 {
-
+    font-family: codeBold;
+    font-size: 7rem;
+    color: white;
+    text-shadow: 0px 0px 10px rgba(150, 150, 150, 1);
 }
+
 
 #home_catchphrase
 {
+    color: white;
+    font-family: edmondSans;
+    font-size: 3rem;
+    text-shadow: 0px 0px 50px rgba(0, 0, 0, 1);
+}
+
+.download
+{
+    font-family:varela ;
+    color: #00e676;
+    border: 2px solid #00e676;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+#landing_download
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    font-size: 2rem;
+    margin-top:20%;
 
 }

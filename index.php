@@ -23,7 +23,7 @@
         <h1 id="home_title" class="centered">EPIC PROJECTS</h1>
         <h2 id="home_catchphrase" class="centered">Lead your projects like a boss.</h2>
 
-        <a>Download Epic Projects</a>
+        <a class="download centered" id="landing_download">Download Epic Projects</a>
 
     </section>
     </body>
