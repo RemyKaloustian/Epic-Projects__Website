@@ -20,6 +20,10 @@
 
 
     <section id="home_section" class="large-12 medium-12 small-12">
+        <h1 id="home_title" class="centered">EPIC PROJECTS</h1>
+        <h2 id="home_catchphrase" class="centered">Lead your projects like a boss.</h2>
+
+        <a>Download Epic Projects</a>
 
     </section>
     </body>
