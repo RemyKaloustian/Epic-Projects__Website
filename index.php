@@ -8,12 +8,20 @@
 
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" src="css/foundation.css">
+        <link rel="stylesheet" href="css/foundation.css">
+        <link rel="stylesheet" href="css/style.css">
+
+
+
+        <script src="js/modernizr.js"></script>
         <title>Epic Projects</title>
     </head>
     <body>
 
-    <h1>U wot mate</h1>
+
+    <section id="home_section" class="large-12 medium-12 small-12">
+
+    </section>
     </body>
 
 
