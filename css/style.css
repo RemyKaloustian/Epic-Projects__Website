@@ -98,7 +98,7 @@
 }
 .divs
 {
-    //background-color: #007ba4;
+    background-color: #007ba4;
 }
 
 .empty
@@ -118,4 +118,93 @@ h5
 {
     color: #00c853;
     margin-top: 15px;
+}
+
+#tuto_section
+{
+    height: 100%;
+}
+
+#tuto_title
+{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    border-bottom: 2px solid #00e676;
+    margin-bottom: 60px;
+}
+
+#lower_download
+{
+    display: block;
+    text-align: center;
+    font-family: varela;
+    font-size: 1.3rem;
+    color: #00e676;
+    border: 2px solid #00e676;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#lower_download:hover
+{
+    color: white;
+    transition-duration: 0.3s;
+}
+
+.bordered
+{
+    border-right: 2px solid #00e676;
+    height: 300px;
+}
+
+#bug_section
+{
+    background-color: #607d8b;
+    height: 100%;
+}
+
+#bug_title
+{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    border-bottom: 2px solid #00e676;
+    margin-bottom: 60px;
+}
+.white
+{
+    color: white;
+}
+
+#bug_text
+{
+font-size: 1.3rem;
+
+}
+
+#danger
+{
+    width:7%;
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+}
+
+footer
+{
+    background-color: #455a64;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+footer,a
+{
+    color: #00e676;
+}
+
+.inline
+{
+    display: inline;
 }
