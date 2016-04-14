@@ -60,10 +60,38 @@
 
 #landing_download
 {
-    margin-left: auto;
-    margin-right: auto;
-    display: table;
+
     font-size: 2rem;
     margin-top:20%;
+   // margin-left: 35%;
+    //margin-right: 35%;
+    display: block;
+   // width: 10em
 
+}
+
+#details_section
+{
+    background-color: #eceff1;
+    height: 100%;
+
+}
+
+.varela
+{
+    font-family: varela;
+}
+
+#details_title
+{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    border-bottom: 2px solid #00e676;
+}
+
+#details_text
+{
+    margin-top: 30px;
+    width:50%;
+    font-size: 1.3rem;
 }
