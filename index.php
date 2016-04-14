@@ -34,6 +34,36 @@
         <p id="details_text" class="varela centered large-centered medium-centered small-centered columns">Epic Projects allows you to manage your project during all its lifespan. This is not a traditional Kanban-based app.
             This is an application whose interface is clearly separated to build your project step by step.</p>
 
+        <div class="large-2 columns empty">|</div>
+
+        <div class="large-2 columns divs">
+            <img class="details_pics" src="pictures/people.png">
+            <h5 class="centered varela">Stay organized</h5>
+            <p class="centered varela">In Epic Projects, every project is divided in four sections :
+            Brainstorming, Training, Assignments, Maintenance. This organization helps you to keep a clear vision of the project.</p>
+        </div>
+
+        <div class="large-1 columns empty" >|</div>
+
+        <div class="large-2 columns divs">
+            <img class="details_pics" src="pictures/hours.png">
+            <h5 class="centered varela">Available 24/7</h5>
+            <p class="centered varela">Epic Projects is built for individual projects, so there is no need for an internet connection.
+                Thus, the app will be working 24/7. You can work whenever you want ;).</p>
+        </div>
+
+        <div class="large-1 columns empty">|</div>
+
+        <div class="large-2 columns divs">
+            <img class="details_pics" src="pictures/business.png">
+            <h5 class="centered varela">Success incoming</h5>
+            <p class="varela centered">Thanks to Epic Projects, you can now boost your ability to organize your work and become more efficient.
+            And guess what, when you become more efficient, success usually shows up.</p>
+
+        </div>
+
+        <div class="large-1 columns empty">|</div>
+
     </section>
     </body>
 
