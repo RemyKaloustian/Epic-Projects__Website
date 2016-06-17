@@ -1,10 +1,27 @@
-﻿body
+﻿@font-face {
+    font-family: 'OpenSansLight';
+    src: url('../fonts/OpenSans-Light.ttf');
+}
+
+@font-face {
+    font-family: 'MoonLight';
+    src: url('../fonts/Moon Light.otf');
+}
+
+
+
+body
 {
-    font-family:'Open Sans Light';
+    font-family:OpenSansLight;
 }
 
 
 h1 
 {
-    font-family:'Moon Light';
+    font-family:MoonLight;
+}
+
+#screen
+{
+    width:90%;
 }
